@@ -1,1 +1,1 @@
-link GITHUB     link VERCEL
+link GITHUB: https://github.com/Gustavo01010001/Trabalho-Final-PPI.git  link VERCEL:https://trabalho-final-ppi-iota.vercel.app/
